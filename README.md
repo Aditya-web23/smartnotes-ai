@@ -14,7 +14,7 @@ This project allows students to:
 (After Vercel deployment, add your link here)
 
 Example:
-https://smartnotes-ai.vercel.app
+https://smartnotes-ai-six.vercel.app/
 
 ---
 
